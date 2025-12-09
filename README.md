@@ -1,6 +1,7 @@
-# Artist List
-Esse projeto é um aplicativo Android nativo desenvolvido com a lingagem de programação Kotlin, criado para aprender princípios básicos da nova UI toolkit Compose.
+#  ArtistList — Jetpack Compose App
 
+ArtistList is a simple and modern Android app built with Jetpack Compose.   
+It displays a feed-style list of famous artists and their artworks, focusing on clean UI and Compose fundamentals.
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
 <img src="https://github.com/ComunidadeDevSpace/ComposeInit/assets/11612508/4def44a9-b377-4e9c-b3b7-19cec8599e6d" width=260/>
@@ -39,3 +40,11 @@ COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
+
+
+ ## Author
+Francisco Cleonis Costa de Souza   
+Android Developer (Junior)   
+📍 Bristol, UK  
+🔗 GitHub: https://github.com/cleonissouza   
+🔗 LinkedIn: https://www.linkedin.com/in/cleonis-souza/
