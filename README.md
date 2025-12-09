@@ -4,7 +4,8 @@ ArtistList is a simple and modern Android app built with Jetpack Compose.
 It displays a feed-style list of famous artists and their artworks, focusing on clean UI and Compose fundamentals.
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="https://github.com/ComunidadeDevSpace/ComposeInit/assets/11612508/4def44a9-b377-4e9c-b3b7-19cec8599e6d" width=260/>
+<img width="260" src="https://github.com/user-attachments/assets/db400549-130d-42a6-89e2-66b6e5b389ea" />
+
 
 ## Tecnologias
 - 100% Kotlin
